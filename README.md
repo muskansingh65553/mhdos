@@ -146,7 +146,7 @@ pip install -r requirements.txt
 **One-Line Installing on Fresh VPS**
 
 ```shell script
-apt -y update && apt -y install curl wget libcurl4 libssl-dev python3 python3-pip make cmake automake autoconf m4 build-essential git && git clone https://github.com/muskansingh65553/MHDDoS.git && cd MH* && pip3 install -r requirements.txt && ./fire.sh
+apt -y update && apt -y install curl wget libcurl4 libssl-dev python3 python3-pip make cmake automake autoconf m4 build-essential git && git clone https://github.com/muskansingh65553/mhdos.git && cd MH* && pip3 install -r requirements.txt && ./fire.sh
 ```
 
 [python3]: https://python.org 'Python3'
