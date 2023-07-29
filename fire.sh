@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Your Python command
-command="python3 start.py AVB https://utrconf.com/ 1 1000 http.txt 100 60"
+command="python3 start.py AVB https://www.gov-relations.com/ 1 1000 http.txt 100 60"
 
 # Number of times to run the command
 num_iterations=500  # Change this to the number of iterations you want
